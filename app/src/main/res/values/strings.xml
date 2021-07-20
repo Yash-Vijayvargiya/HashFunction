@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hash Function</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hash_generator">HASH GENERATOR</string>
+    <string name="generate">Generate</string>
+
+    <string-array name="Algorithms">
+        <item>SHA-256</item>
+        <item>SHA-512</item>
+        <item>MD5</item>
+    </string-array>
+</resources>
